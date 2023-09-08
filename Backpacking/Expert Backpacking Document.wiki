@@ -63,8 +63,6 @@ Remote Access Trojans are usually malicious software that allows the malicious h
 <B>* Instant Information Gathering On Targets</B><BR>
 The combined system created by my team can instantly gather real time information on targets and spread the live videos by Smart Glasses around to all ~1,200 members on the server<BR><BR>
 
-<B>* Proving Traceback</B><BR><BR>
-
 <B>* Protecting From PickPockets, Room Thieves and Switcheroos</B><BR>
 <B>PickPockets</B> are small gangs that usually work for the larger gangs in the area. The shown travel gear is nice and tight. By wearing tight clothing it makes it very difficult for PickPockets
 to steal anything from you. Usually PickPockets will use a razor blade to cut the backpack or the pockets to steal a wallet or anything valuable. By staying away from crowded areas while traveling

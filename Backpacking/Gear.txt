@@ -178,7 +178,10 @@ Survival/dp/B004XN8UHA
 [+] Wallets
 [-] TrayVax Armored Summit Wallet
 * https://www.TrayVax.com/collections/wallets-metal/products/armored-summit
-[*] Fire
+[*] Fire, Butane Torch Cylinder
+[-] Koltec Butane Torch With 6 Inch Flame
+* https://www.amazon.com/KOLTEC-Windproof-Refillable-Adjustable-Included/dp/B0C2J9RTNQ/ref=sr_1_24?crid=3HCJR4ES60ZME
+[*] Fire, Lighter
 [-] Zippo Lighter
 * https://www.Zippo.com/products/classic-matte-black
 [-] Zippo Flints
